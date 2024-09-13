@@ -2,6 +2,8 @@
 
 A Behance submission is a key part of your larger portfolio. It provides your audience with insight into your project and its outcomes in a well-structured format. To maintain consistency and guide you through the process, we've outlined the following requirements.
 
+[Link to the behance example post](https://www.behance.net/gallery/207833237/Template-for-behance)
+
 ## Overview
 Every Behance submission should include the following sections:
 
