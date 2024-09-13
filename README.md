@@ -2,6 +2,8 @@
 
 Een Behance-inzending is een belangrijk onderdeel van je grotere portfolio. Het geeft je publiek inzicht in je project en de resultaten in een goed gestructureerd formaat. Om consistentie te waarborgen en je door het proces te begeleiden, hebben we de volgende vereisten opgesteld.
 
+[Link naar het behance voorbeeld](https://www.behance.net/gallery/207833237/Template-for-behance)
+
 ## Overzicht
 Elke Behance-inzending moet de volgende secties bevatten:
 
